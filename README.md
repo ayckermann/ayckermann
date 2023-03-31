@@ -1,4 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gotham)
+![AYCKKERMANN](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gotham)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayckermann&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayckermann&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)

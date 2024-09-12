@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hii!!!
 🥸 I'm a mobile and game development enthusiast, currently learning swift iOS development <br>
 🔭 I’m currently learn at Apple Developer Academy
 

@@ -1,6 +1,6 @@
 # Hii!!!
 🥸 I'm a mobile and game development enthusiast, currently learning swift iOS development <br>
-🔭 I’m currently work at nbs.co.id as iOS Developer
+🔭 I’m currently work at nbs.co.id as iOS Developer <br>
 🗿 If you seen gap in my commits activity, that's when the project repository is in GitLab or Bitbucket
 
 
